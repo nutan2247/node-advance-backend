@@ -1,0 +1,18 @@
+import { PERMISSIONS } from "./permissions.js";
+import { ROLES } from "./roles.js";
+
+export const ROLE_PERMISSIONS = {
+  [ROLES.ADMIN]: [
+    PERMISSIONS.USER_CREATE,
+    PERMISSIONS.USER_VIEW,
+    PERMISSIONS.USER_UPDATE,
+    PERMISSIONS.USER_DELETE,
+  ],
+
+  [ROLES.MANAGER]: [
+    PERMISSIONS.USER_VIEW,
+    PERMISSIONS.USER_UPDATE,
+  ],
+
+  [ROLES.USER]: [],
+};
