@@ -1,6 +1,4 @@
-📄 README.md (Professional Version)
-# 🏦 Bank HRMS Backend (Enterprise-Grade)
-
+#Advance Node Backend
 An enterprise-style HRMS backend built using Node.js, Express, and MongoDB.  
 This project demonstrates secure authentication, role-based access control, permission-based authorization, and admin-level user management.
 
