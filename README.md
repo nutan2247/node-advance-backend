@@ -204,6 +204,6 @@ This backend will evolve into a full Bank HRMS system including:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author N.Kumar
 
 Built as part of backend architecture practice focusing on enterprise system design.
